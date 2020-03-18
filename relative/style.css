@@ -1,0 +1,19 @@
+.rect {
+    display: inline-block;
+    background: #526CE3;
+    width: 120px;
+    height: 120px;
+    /* float: left; */
+    margin: 25px;
+    color: white;
+    text-align: center;
+    padding: 65px 35px 35px 35px;
+}
+
+#boxtwo {
+    position: relative;
+    top: 30px;
+    left: 30px;
+    color: black;
+    background-color: #0BD94C;
+}
